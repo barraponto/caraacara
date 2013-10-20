@@ -1,5 +1,5 @@
-define(['App', 'jquery', 'backbone', 'marionette', 'views/PeopleView', 'views/DesktopHeaderView', 'collections/People', 'seedrandom'],
-    function (App, $, Backbone, Marionette, PeopleView, DesktopHeaderView, People) {
+define(['App', 'jquery', 'backbone', 'marionette', 'views/PersonView', 'views/PeopleView', 'views/DesktopHeaderView', 'models/Person', 'collections/People', 'seedrandom'],
+    function (App, $, Backbone, Marionette, PersonView, PeopleView, DesktopHeaderView, Person, People) {
     return Backbone.Marionette.Controller.extend({
         initialize:function (options) {
             App.headerRegion.show(new DesktopHeaderView());
@@ -15,6 +15,11 @@ define(['App', 'jquery', 'backbone', 'marionette', 'views/PeopleView', 'views/De
                 ).slice(-24);
                 // Populate.
                 App.people = new People(data);
+                // Pick a slightly more random goal.
+                Math.seedrandom(hash, true);
+                var pick = new Person(data[Math.floor(Math.random()*data.length)]);
+                // Draw :)
+                App.goalRegion.show(new PersonView({ model: pick }));
                 App.mainRegion.show(new PeopleView({
                     collection: App.people
                 }));
