@@ -38,11 +38,12 @@ liderancas = [('http://dadosabertos.almg.gov.br/ws/'
                'representacao_partidaria/minoria/liderancas?formato=json')]
 
 lideres = list(chain(*[get_lideres(url) for url in liderancas]))
-import pprint; pprint.pprint(lideres)
 
-data = [{'nome': deputado['nome'],
+data = [{'key': deputado['id'],
+         'nome': deputado['nome'],
          'partido': deputado['partido'],
-         'legislaturas': len(deputado['legislaturas'])}
+         'legislaturas': len(deputado['legislaturas']),
+         'lider': deputado['id'] in lideres}
         for deputado in deputados.values()]
 
 with open('data.json', 'w') as output:
