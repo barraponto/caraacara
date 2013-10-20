@@ -1,5 +1,5 @@
-define(['App', 'backbone', 'marionette', 'views/PeopleView', 'views/DesktopHeaderView', 'collections/People'],
-    function (App, Backbone, Marionette, PeopleView, DesktopHeaderView, People) {
+define(['App', 'jquery', 'backbone', 'marionette', 'views/PeopleView', 'views/DesktopHeaderView', 'collections/People'],
+    function (App, $, Backbone, Marionette, PeopleView, DesktopHeaderView, People) {
     return Backbone.Marionette.Controller.extend({
         initialize:function (options) {
             App.headerRegion.show(new DesktopHeaderView());
@@ -8,15 +8,13 @@ define(['App', 'backbone', 'marionette', 'views/PeopleView', 'views/DesktopHeade
         index:function () {
             // Get the data.
             // TODO: get actual data.
-            App.people = new People([
-                {name: 'João', details: ['rural', 'pmdb']},
-                {name: 'Maria', details: []},
-                {name: 'Capi', details: ['hacker']},
-                {name: 'José', details: []}
-            ]);
-            App.mainRegion.show(new PeopleView({
-                collection: App.people
-            }));
+            $.getJSON('data.json', function(data, jqXHR, code) {
+                console.log(data);
+                App.people = new People(data);
+                App.mainRegion.show(new PeopleView({
+                    collection: App.people
+                }));
+            });
         }
     });
 });
