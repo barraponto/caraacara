@@ -1,0 +1,23 @@
+.topbadge
+{
+	background-color: #B4CDCD;
+	width: 95%;
+	margin: 0 auto;
+	max-height: 10px;
+	list-style: none;
+}
+.badge{
+	max-width:  10px;
+	max-height: 10px;
+}
+
+.card
+{
+	border: 2px;
+	border-style:solid;
+	max-width: 109px;
+	max-height: 130px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-color: #7A8B8B;
+}
