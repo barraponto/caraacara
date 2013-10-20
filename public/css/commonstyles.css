@@ -1,11 +1,26 @@
+	
 .topbadge
 {
-	background-color: #B4CDCD;
-	width: 95%;
-	margin: 0 auto;
-	max-height: 10px;
-	list-style: none;
+	background-color:#6F5872;
+	max-width: 120px;
+	max-height: 20px;
 }
+
+ul
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+
+li
+{
+	display:inline-block;
+	padding-right: 20px;
+}
+
+
 .badge{
 	max-width:  10px;
 	max-height: 10px;
@@ -13,14 +28,37 @@
 
 .card
 {
-	border: 2px;
+	border: 6px;
 	border-style:solid;
-	max-width: 109px;
-	max-height: 130px;
+	max-width: 120px;
+	max-height: 220px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
-	border-color: #7A8B8B;
+	background-color: #96A498;
+	border-color: #6F5872;
 	-webkit-box-shadow: 0 8px 6px -6px black;
 	   -moz-box-shadow: 0 8px 6px -6px black;
 	        box-shadow: 0 8px 6px -6px black;
+}
+
+h4
+{
+	margin-left: 5px;
+	color: #ffffff;
+	font-weight: normal;
+	font-family: Tahoma;
+}
+
+img
+{
+	margin: 0 auto;
+	float: none;
+	display: block;
+}
+
+.img
+{
+	max-width: 120px;
+	background-color:#6F5872;
+	padding-bottom: 5px;
 }
