@@ -67,3 +67,41 @@ img
 	background-color:#6F5872;
 	padding-bottom: 5px;
 }
+
+aside {
+  position: relative;
+  display: block;
+}
+
+aside::before {
+  content: 'Este é o seu deputado:';
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  height: 1.6em;
+}
+
+aside > li {
+  display: block;
+  padding: 0;
+}
+
+aside > li > .card {
+  padding-top: 2em;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+aside > li > .card .img {
+  border: none;
+  background: none;
+}
+
+aside > li > .card h4 {
+  color: black;
+  height: auto;
+  max-width: inherit;
+  margin: inherit 0;
+}
