@@ -20,4 +20,7 @@
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	border-color: #7A8B8B;
+	-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
 }
