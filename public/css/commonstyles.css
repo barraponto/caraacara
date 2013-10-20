@@ -1,8 +1,7 @@
-	
 .topbadge
 {
 	background-color:#6F5872;
-	max-width: 120px;
+	max-width: 120px; 
 	max-height: 20px;
 }
 
@@ -16,7 +15,7 @@ ul
 
 li
 {
-	display:inline-block;
+	display:inline-table;
 	padding-right: 20px;
 }
 
@@ -30,8 +29,8 @@ li
 {
 	border: 6px;
 	border-style:solid;
-	max-width: 120px;
-	max-height: 220px;
+	/* max-width: 120px; */
+	max-height: 240px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	background-color: #96A498;
@@ -44,6 +43,8 @@ li
 h4
 {
 	margin-left: 5px;
+	max-width: 110px;
+	height: 20px;
 	color: #ffffff;
 	font-weight: normal;
 	font-family: Tahoma;
