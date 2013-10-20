@@ -46,5 +46,5 @@ data = [{'key': deputado['id'],
          'lider': deputado['id'] in lideres}
         for deputado in deputados.values()]
 
-with open('data.json', 'w') as output:
+with open('../data.json', 'w') as output:
     json.dump(data, output)
