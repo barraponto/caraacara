@@ -7,7 +7,7 @@ define( ['App', 'backbone', 'marionette', 'jquery', 'hbs!templates/person'],
             // View Event Handlers
             events: {
                 // TODO: send to limbo.
-                'click h2': 'remove'
+                'click .card': 'remove'
             },
             modelEvents: {
                 change: 'render'
