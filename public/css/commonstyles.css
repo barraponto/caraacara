@@ -19,11 +19,6 @@ li
 	padding-right: 20px;
 }
 
-.lider
-{
-	border-color: #6F5872;
-}
-
 .badge{
 	max-width:  10px;
 	max-height: 10px;
@@ -42,13 +37,19 @@ li
 	-webkit-box-shadow: 0 8px 6px -6px black;
 	   -moz-box-shadow: 0 8px 6px -6px black;
 	        box-shadow: 0 8px 6px -6px black;
+  margin: 0.5em 0.25em;
+}
+
+.lider
+{
+	border-color: blue;
 }
 
 h4
 {
 	margin-left: 5px;
 	max-width: 110px;
-	height: 20px;
+	height: 2em;
 	color: #ffffff;
 	font-weight: normal;
 	font-family: Tahoma;
