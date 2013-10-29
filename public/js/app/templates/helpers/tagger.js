@@ -1,7 +1,7 @@
-define(['handlebars'], function (Handlebars){
+define(['handlebars', 'underscore.string'], function (Handlebars, _str){
   function tagger(context, options) {
     var tags = [];
-    tags.push(context.partido);
+    tags.push(_str.slugify(context.partido));
     tags.push(context.legislaturas + '-legislaturas');
     if (context.lider) {
         tags.push('lider');
