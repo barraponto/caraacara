@@ -11,7 +11,6 @@ define(['jquery', 'backbone', 'marionette', 'underscore', 'handlebars'],
         //Regions can contain views, Layouts, or subregions nested as necessary
         App.addRegions({
             headerRegion: "header",
-            goalRegion: "aside",
             mainRegion: "#main"
         });
 
