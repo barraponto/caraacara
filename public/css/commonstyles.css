@@ -53,3 +53,11 @@
   margin: 1em 1.75em;
   float: left;
 }
+
+footer {
+  background-color: white;
+}
+footer p {
+  margin: 0;
+  line-height: 2em;
+}

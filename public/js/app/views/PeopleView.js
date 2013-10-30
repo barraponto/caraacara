@@ -4,6 +4,6 @@ define(['App', 'backbone', 'marionette', 'jquery', 'views/PersonView', 'hbs!temp
         return Backbone.Marionette.CollectionView.extend({
             tagName: 'ul',
             template: template,
-            itemView: PersonView,
+            itemView: PersonView
         });
     });
