@@ -1,4 +1,11 @@
-<div class="goal {{tagger this}}">
-  <div class="img"> <img src="pictures/{{ key }}.jpg"> </div>
-  <h4>{{ nome }}</h4>
+<figure class="goal {{tagger this}}">
+  <img src="pictures/{{ key }}.jpg">
+</figure>
+<div class="info">
+  <h2>{{ nome }}</h2>
+  <ul>
+    <li>Partido: {{partido}}</li>
+    {{#if lider}}<li>Lider de Bancada.</li>{{/if}}
+    <li>Participou de {{legislaturas}} legislaturas.</li>
+  </ul>
 </div>

@@ -1,15 +1,16 @@
-#main > ul {
+#game > ul {
   overflow: hidden;
 }
 
-#main > ul > li {
+#game > ul > li {
   list-style: none;
   padding: 0;
   margin: 0;
   float: left;
 }
+
+.goal,
 .card {
-  display: block;
   margin: 0.5em 0.25em;
   width: 108px;
   height: 144px;
@@ -21,6 +22,7 @@
   padding-bottom: 3em;
 }
 
+.goal img,
 .card img {
   min-height: 100%;
   max-width: inherit;
@@ -41,40 +43,13 @@
   border-color: blue;
 }
 
-aside {
-  position: relative;
-  display: block;
+#goal .hero-unit {
+  padding: 10px 0;
+  overflow: hidden;
 }
 
-aside::before {
-  content: 'Este é o seu deputado:';
-  position: absolute;
-  top: 0;
-  left: 0;
-  display: block;
-  height: 1.6em;
-}
-
-aside > li {
-  display: block;
+.goal {
   padding: 0;
-}
-
-aside > li > .card {
-  padding-top: 2em;
-  background: none;
-  border: none;
-  box-shadow: none;
-}
-
-aside > li > .card .img {
-  border: none;
-  background: none;
-}
-
-aside > li > .card h4 {
-  color: black;
-  height: auto;
-  max-width: inherit;
-  margin: inherit 0;
+  margin: 1em 1.75em;
+  float: left;
 }
