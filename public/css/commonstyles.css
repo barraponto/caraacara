@@ -1,3 +1,7 @@
+#main {
+  padding-bottom: 28px;
+}
+
 #game > ul {
   overflow: hidden;
 }
@@ -12,14 +16,14 @@
 .goal,
 .card {
   margin: 0.5em 0.25em;
-  width: 108px;
-  height: 144px;
+  width: 120px;
+  height: 230px;
   overflow: hidden;
   border: 2px solid #6F5872;
   border-radius: 5px;
   box-shadow: 0 8px 6px -6px black;
   text-align: center;
-  padding-bottom: 3em;
+  position: relative;
 }
 
 .goal img,
@@ -32,11 +36,15 @@
 }
 
 .card figcaption {
-  height: 3em;
-  width: 144px;
+  height: 1.6em;
+  width: 100%;
   display: table-cell;
   vertical-align: middle;
   text-align: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: white;
 }
 
 .lider {
