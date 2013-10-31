@@ -61,3 +61,11 @@ footer p {
   margin: 0;
   line-height: 2em;
 }
+
+footer {
+  background-color: white;
+}
+footer p {
+  margin: 0;
+  line-height: 2em;
+}
