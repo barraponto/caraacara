@@ -1,534 +1,5122 @@
 [
     {
-        "key": 5888,
-        "legislaturas": 6,
-        "lider": false,
-        "nome": "Adelmo Carneiro Le\u00e3o",
-        "partido": "PT"
-    },
-    {
-        "key": 7810,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "C\u00e9lio Moreira",
-        "partido": "PSDB"
-    },
-    {
-        "key": 18859,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Liza Prado",
-        "partido": "PROS"
-    },
-    {
-        "key": 12292,
-        "legislaturas": 4,
-        "lider": false,
-        "nome": "Z\u00e9 Maia",
-        "partido": "PSDB"
-    },
-    {
-        "key": 12207,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "Leonardo Moreira",
-        "partido": "PSDB"
-    },
-    {
-        "key": 9671,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "Rog\u00e9rio Correia",
-        "partido": "PT"
-    },
-    {
-        "key": 20231,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Glaycon Franco",
-        "partido": "PTN"
-    },
-    {
-        "key": 5898,
-        "legislaturas": 6,
-        "lider": false,
-        "nome": "Dilzon Melo",
-        "partido": "PTB"
-    },
-    {
-        "key": 1943,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "Romel An\u00edzio",
-        "partido": "PP"
-    },
-    {
-        "key": 15259,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "R\u00f4mulo Veneroso",
-        "partido": "PV"
-    },
-    {
-        "key": 15246,
-        "legislaturas": 2,
-        "lider": false,
-        "nome": "Braulio Braz",
-        "partido": "PTB"
-    },
-    {
-        "key": 18861,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Luzia Ferreira",
-        "partido": "PPS"
-    },
-    {
-        "key": 15248,
-        "legislaturas": 2,
-        "lider": false,
-        "nome": "Carlos Mosconi",
-        "partido": "PSDB"
-    },
-    {
-        "key": 5905,
-        "legislaturas": 5,
-        "lider": false,
-        "nome": "Hely Tarq\u00fc\u00ednio",
-        "partido": "PV"
-    },
-    {
-        "key": 10002,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Carlos Henrique",
-        "partido": "PRB"
-    },
-    {
-        "key": 15251,
-        "legislaturas": 2,
-        "lider": false,
-        "nome": "Deir\u00f3 Marra",
-        "partido": "PR"
-    },
-    {
-        "key": 9748,
-        "legislaturas": 5,
-        "lider": false,
-        "nome": "Maria Tereza Lara",
-        "partido": "PT"
-    },
-    {
-        "key": 15254,
-        "legislaturas": 2,
-        "lider": true,
-        "nome": "Lafayette de Andrada",
-        "partido": "PSDB"
-    },
-    {
-        "key": 10969,
-        "legislaturas": 4,
-        "lider": false,
-        "nome": "Pinduca Ferreira",
-        "partido": "PP"
-    },
-    {
-        "key": 15257,
-        "legislaturas": 2,
-        "lider": false,
-        "nome": "Vanderlei Miranda",
-        "partido": "PMDB"
-    },
-    {
-        "key": 15258,
-        "legislaturas": 2,
-        "lider": true,
-        "nome": "Paulo Guedes",
-        "partido": "PT"
-    },
-    {
-        "key": 9371,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Cabo J\u00falio",
-        "partido": "PMDB"
-    },
-    {
-        "key": 15260,
-        "legislaturas": 2,
-        "lider": false,
-        "nome": "Ros\u00e2ngela Reis",
-        "partido": "PROS"
-    },
-    {
-        "key": 18845,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Anselmo Jos\u00e9 Domingos",
-        "partido": "PTC"
-    },
-    {
-        "key": 18846,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Antonio Lerin",
-        "partido": "PSB"
-    },
-    {
-        "key": 7327,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "Ant\u00f4nio Carlos Arantes",
-        "partido": "PSDB"
-    },
-    {
-        "key": 15265,
-        "legislaturas": 2,
-        "lider": false,
-        "nome": "In\u00e1cio Franco",
-        "partido": "PV"
-    },
-    {
-        "key": 18850,
-        "legislaturas": 2,
-        "lider": false,
-        "nome": "Doutor Wilson Batista",
-        "partido": "PSD"
-    },
-    {
-        "key": 12195,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "Andr\u00e9 Quint\u00e3o",
-        "partido": "PT"
-    },
-    {
-        "key": 18852,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Elismar Prado",
-        "partido": "PT"
-    },
-    {
-        "key": 18853,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Fabiano Tolentino",
-        "partido": "PPS"
-    },
-    {
-        "key": 18854,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "F\u00e1bio Cherem",
-        "partido": "PSD"
-    },
-    {
-        "key": 18855,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Gustavo Perrella",
-        "partido": "SDD"
-    },
-    {
-        "key": 18856,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "H\u00e9lio Gomes",
-        "partido": "PSD"
-    },
-    {
-        "key": 12201,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "Gilberto Abramo",
-        "partido": "PRB"
-    },
-    {
-        "key": 12202,
-        "legislaturas": 3,
-        "lider": true,
-        "nome": "Gustavo Valadares",
-        "partido": "PSDB"
-    },
-    {
-        "key": 12203,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "Jayro Lessa",
-        "partido": "DEM"
-    },
-    {
-        "key": 18860,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Tadeu Martins Leite",
-        "partido": "PMDB"
-    },
-    {
-        "key": 12210,
-        "legislaturas": 4,
-        "lider": false,
-        "nome": "Luiz Humberto Carneiro",
-        "partido": "PSDB"
-    },
-    {
-        "key": 18862,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Marques Abreu",
-        "partido": "PTB"
-    },
-    {
-        "key": 13981,
-        "legislaturas": 4,
-        "lider": false,
-        "nome": "Gustavo Corr\u00eaa",
-        "partido": "DEM"
-    },
-    {
-        "key": 21125,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "M\u00e1rio Henrique Caixa",
-        "partido": "PC DO B"
-    },
-    {
-        "key": 18865,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Pomp\u00edlio Canavez",
-        "partido": "PT"
-    },
-    {
-        "key": 4018,
-        "legislaturas": 5,
-        "lider": false,
-        "nome": "Durval \u00c2ngelo",
-        "partido": "PT"
-    },
-    {
-        "key": 18867,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Ulysses Gomes",
-        "partido": "PT"
-    },
-    {
-        "key": 9652,
-        "legislaturas": 4,
-        "lider": false,
-        "nome": "Arlen Santiago",
-        "partido": "PTB"
-    },
-    {
-        "key": 9886,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Fred Costa",
-        "partido": "PEN"
-    },
-    {
-        "key": 17206,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "Juarez T\u00e1vora",
-        "partido": "PV"
-    },
-    {
-        "key": 9655,
-        "legislaturas": 4,
-        "lider": false,
-        "nome": "Dalmo Ribeiro Silva",
-        "partido": "PSDB"
-    },
-    {
-        "key": 9673,
-        "legislaturas": 4,
-        "lider": false,
-        "nome": "Sargento Rodrigues",
-        "partido": "PDT"
-    },
-    {
-        "key": 5923,
-        "legislaturas": 8,
-        "lider": false,
-        "nome": "Sebasti\u00e3o Costa",
-        "partido": "PPS"
-    },
-    {
-        "key": 12214,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "Neider Moreira",
-        "partido": "PSD"
-    },
-    {
-        "key": 18849,
-        "legislaturas": 2,
-        "lider": false,
-        "nome": "Celinho do Sinttrocel",
-        "partido": "PC DO B"
-    },
-    {
-        "key": 7752,
-        "legislaturas": 6,
-        "lider": false,
-        "nome": "Alencar da Silveira Jr",
-        "partido": "PDT"
-    },
-    {
-        "key": 7753,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "Almir Paraca",
-        "partido": "PT"
-    },
-    {
-        "key": 10189,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Luiz Henrique",
-        "partido": "PSDB"
-    },
-    {
-        "key": 12194,
-        "legislaturas": 4,
-        "lider": false,
-        "nome": "Ana Maria Resende",
-        "partido": "PSDB"
-    },
-    {
-        "key": 7758,
-        "legislaturas": 5,
-        "lider": true,
-        "nome": "Carlos Pimenta",
-        "partido": "PDT"
-    },
-    {
-        "key": 7759,
-        "legislaturas": 5,
-        "lider": false,
-        "nome": "Dinis Pinheiro",
-        "partido": "PP"
-    },
-    {
-        "key": 18864,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Paulo Lamac",
-        "partido": "PT"
-    },
-    {
-        "key": 7763,
-        "legislaturas": 5,
-        "lider": false,
-        "nome": "Ivair Nogueira",
-        "partido": "PMDB"
-    },
-    {
-        "key": 18863,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Neilando Pimenta",
-        "partido": "PP"
-    },
-    {
-        "key": 7766,
-        "legislaturas": 5,
-        "lider": false,
-        "nome": "Jo\u00e3o Leite",
-        "partido": "PSDB"
-    },
-    {
-        "key": 7769,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "Leon\u00eddio Bou\u00e7as",
-        "partido": "PMDB"
-    },
-    {
-        "key": 15266,
-        "legislaturas": 4,
-        "lider": false,
-        "nome": "Juninho Ara\u00fajo",
-        "partido": "PTB"
-    },
-    {
-        "key": 3680,
-        "legislaturas": 7,
-        "lider": false,
-        "nome": "Ant\u00f4nio Genaro",
-        "partido": "PSC"
-    },
-    {
-        "key": 12193,
-        "legislaturas": 3,
-        "lider": false,
-        "nome": "Adalclever Lopes",
-        "partido": "PMDB"
-    },
-    {
-        "key": 11237,
-        "legislaturas": 2,
-        "lider": true,
-        "nome": "Tiago Ulisses",
-        "partido": "PV"
-    },
-    {
-        "key": 17254,
-        "legislaturas": 2,
-        "lider": false,
-        "nome": "Tenente L\u00facio",
-        "partido": "PDT"
-    },
-    {
-        "key": 18851,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Duilio de Castro",
-        "partido": "PMN"
-    },
-    {
-        "key": 1832,
-        "legislaturas": 4,
-        "lider": true,
-        "nome": "S\u00e1vio Souza Cruz",
-        "partido": "PMDB"
-    },
-    {
-        "key": 3667,
-        "legislaturas": 5,
-        "lider": true,
-        "nome": "Bonif\u00e1cio Mour\u00e3o",
-        "partido": "PSDB"
-    },
-    {
-        "key": 18857,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Bosco",
-        "partido": "PT DO B"
-    },
-    {
-        "key": 18858,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "Jo\u00e3o V\u00edtor Xavier",
-        "partido": "PSDB"
-    },
-    {
-        "key": 18866,
-        "legislaturas": 1,
-        "lider": false,
-        "nome": "R\u00f4mulo Viegas",
-        "partido": "PSDB"
-    },
-    {
-        "key": 17919,
-        "legislaturas": 2,
-        "lider": false,
-        "nome": "Duarte Bechir",
-        "partido": "PSD"
+        "nome": "Costa Ferreira", 
+        "partido": "PSC", 
+        "legislaturas": 12, 
+        "lider": false, 
+        "key": "74016", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Sarney Filho", 
+        "partido": "PV", 
+        "legislaturas": 4, 
+        "lider": true, 
+        "key": "74210", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Paes Landim", 
+        "partido": "PTB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74319", 
+        "estado": "PI"
+    }, 
+    {
+        "nome": "Henrique Eduardo Alves", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74324", 
+        "estado": "RN"
+    }, 
+    {
+        "nome": "Inoc\u00eancio Oliveira", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74421", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Roberto Freire", 
+        "partido": "PPS", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "73805", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "S\u00e9rgio Brito", 
+        "partido": "PSC", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "73808", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Rose De Freitas", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73507", 
+        "estado": "ES"
+    }, 
+    {
+        "nome": "Arolde De Oliveira", 
+        "partido": "DEM", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74833", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Benedita Da Silva", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "73701", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Miro Teixeira", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74862", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Sim\u00e3o Sessim", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73424", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Humberto Souto", 
+        "partido": "PPS", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74662", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Lael Varella", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74742", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "M\u00e1rio De Oliveira", 
+        "partido": "PSC", 
+        "legislaturas": 10, 
+        "lider": false, 
+        "key": "74747", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Jos\u00e9 Geno\u00edno", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73540", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Roberto Balestra", 
+        "partido": "PP", 
+        "legislaturas": 10, 
+        "lider": false, 
+        "key": "73674", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Augusto Carvalho", 
+        "partido": "PPS", 
+        "legislaturas": 14, 
+        "lider": false, 
+        "key": "73655", 
+        "estado": "DF"
+    }, 
+    {
+        "nome": "Wellington Fagundes", 
+        "partido": "PR", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "73653", 
+        "estado": "MT"
+    }, 
+    {
+        "nome": "Luci Choinacki", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "73474", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "\u00c1tila Lins", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74090", 
+        "estado": "AM"
+    }, 
+    {
+        "nome": "Pauderney Avelino", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74095", 
+        "estado": "AM"
+    }, 
+    {
+        "nome": "F\u00e1tima Pelaes", 
+        "partido": "PMDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74065", 
+        "estado": "AP"
+    }, 
+    {
+        "nome": "Osvaldo Reis", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74191", 
+        "estado": "TO"
+    }, 
+    {
+        "nome": "Pedro Novais", 
+        "partido": "PMDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74207", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Jos\u00e9 Linhares", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74297", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Edson Silva", 
+        "partido": "PSB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "74106", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Ariosto Holanda", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74103", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Sergio Guerra", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74435", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Marcos Medrado", 
+        "partido": "PDT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74634", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Ronaldo Caiado", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": true, 
+        "key": "74813", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Luciano Pizzatto", 
+        "partido": "DEM", 
+        "legislaturas": 12, 
+        "lider": false, 
+        "key": "73777", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Reinhold Stephanes", 
+        "partido": "PMDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "73786", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Luiz Carlos Hauly", 
+        "partido": "PSDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "73778", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Aracely De Paula", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74648", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Beto Mansur", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73437", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Jandira Feghali", 
+        "partido": "PCdoB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74848", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Nelson Bornier", 
+        "partido": "PMDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "73416", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Jair Bolsonaro", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74847", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Nelson Marquezelli", 
+        "partido": "PTB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73553", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Aldo Rebelo", 
+        "partido": "PCdoB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73428", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Jorge Tadeu Mudalen", 
+        "partido": "DEM", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "73535", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Giovanni Queiroz", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74077", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Jos\u00e9 An\u00edbal", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73536", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Moacir Micheletto", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74238", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Valdir Colatto", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74010", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Vilmar Rocha", 
+        "partido": "DEM", 
+        "legislaturas": 5, 
+        "lider": false, 
+        "key": "73677", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Luciano Castro", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73982", 
+        "estado": "RR"
+    }, 
+    {
+        "nome": "\u00c1tila Lira", 
+        "partido": "PSB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74459", 
+        "estado": "PI"
+    }, 
+    {
+        "nome": "Jutahy Junior", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74570", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Bonif\u00e1cio De Andrada", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74650", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Antonio Carlos Mendes Thame", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73584", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Arnaldo Faria De S\u00e1", 
+        "partido": "PTB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73434", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Teresa Surita", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160608", 
+        "estado": "RR"
+    }, 
+    {
+        "nome": "Rubens Bueno", 
+        "partido": "PPS", 
+        "legislaturas": 1, 
+        "lider": true, 
+        "key": "73466", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Fernando Lopes", 
+        "partido": "PMDB", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "74843", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Abelardo Lupion", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73764", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "J\u00falio Campos", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160519", 
+        "estado": "MT"
+    }, 
+    {
+        "nome": "Mauro Benevides", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73588", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Hugo Napole\u00e3o", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160974", 
+        "estado": "PI"
+    }, 
+    {
+        "nome": "Asdrubal Bentes", 
+        "partido": "PMDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74222", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Gonzaga Patriota", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74419", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Paulo Maluf", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "132056", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Carlos Bezerra", 
+        "partido": "PMDB", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "141401", 
+        "estado": "MT"
+    }, 
+    {
+        "nome": "Esperidi\u00e3o Amin", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160649", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Valdemar Costa Neto", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73565", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Newton Cardoso", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74750", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Marcio Reinaldo Moreira", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74744", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "J\u00falio Cesar", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74317", 
+        "estado": "PI"
+    }, 
+    {
+        "nome": "Silas Brasileiro", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74765", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Nelson Meurer", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73781", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Edson Ezequiel", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74838", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Saraiva Felipe", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74762", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Paulo Bornhausen", 
+        "partido": "DEM", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "73883", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Claudio Cajado", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74537", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Armando Ab\u00edlio", 
+        "partido": "PTB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74405", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Gast\u00e3o Vieira", 
+        "partido": "PMDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74200", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Alexandre Cardoso", 
+        "partido": "PSB", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "74829", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Elcione Barbalho", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74075", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Arlindo Chinaglia", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": true, 
+        "key": "73433", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Jos\u00e9 Chaves", 
+        "partido": "PTB", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "74423", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Silvio Torres", 
+        "partido": "PSDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "73560", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Ivan Valente", 
+        "partido": "PSOL", 
+        "legislaturas": 4, 
+        "lider": true, 
+        "key": "73531", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Mendon\u00e7a Filho", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74428", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Carlos Melles", 
+        "partido": "DEM", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74651", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Domingos Dutra", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74197", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Jo\u00e3o Paulo Cunha", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73534", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Mauro Lopes", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74749", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "An\u00edbal Gomes", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74212", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Fernando Ferro", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74417", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Edinho Ara\u00fajo", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "73447", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Vicente Arruda", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74308", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Dilceu Sperafico", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73768", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Betinho Rosado", 
+        "partido": "DEM", 
+        "legislaturas": 12, 
+        "lider": false, 
+        "key": "74321", 
+        "estado": "RN"
+    }, 
+    {
+        "nome": "Antonio Balhmann", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74213", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Sandro Mabel", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73676", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Alexandre Santos", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74830", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Edinho Bez", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73793", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Eduardo Barbosa", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74655", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Jo\u00e3o Le\u00e3o", 
+        "partido": "PP", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "74550", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Jos\u00e9 Rocha", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74554", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Arnon Bezerra", 
+        "partido": "PTB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74291", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Jaime Martins", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74665", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "S\u00e9rgio Barradas Carneiro", 
+        "partido": "PT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74533", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Marinha Raupp", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74177", 
+        "estado": "RO"
+    }, 
+    {
+        "nome": "Mendes Ribeiro Filho", 
+        "partido": "PMDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "73904", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Salvador Zimbaldi", 
+        "partido": "PDT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "73559", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Hermes Parcianello", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73772", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "M\u00e1rio Negromonte", 
+        "partido": "PP", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74635", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Jos\u00e9 Priante", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74079", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Wolney Queiroz", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74439", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Enio Bacci", 
+        "partido": "PDT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "73893", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Od\u00edlio Balbinotti", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73782", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Darc\u00edsio Perondi", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73891", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Eliseu Padilha", 
+        "partido": "PMDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "73892", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Jovair Arantes", 
+        "partido": "PTB", 
+        "legislaturas": 4, 
+        "lider": true, 
+        "key": "73666", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Jo\u00e3o Pizzolatti", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73874", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Paulo Feij\u00f3", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74017", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Narcio Rodrigues", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74108", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Pedro Henry", 
+        "partido": "PP", 
+        "legislaturas": 10, 
+        "lider": false, 
+        "key": "74111", 
+        "estado": "MT"
+    }, 
+    {
+        "nome": "Jo\u00e3o Magalh\u00e3es", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74120", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Emanuel Fernandes", 
+        "partido": "PSDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74119", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Mar\u00e7al Filho", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74124", 
+        "estado": "MS"
+    }, 
+    {
+        "nome": "Colbert Martins", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74230", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Luiz Alberto", 
+        "partido": "PT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74133", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Raimundo Gomes De Matos", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74216", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Wellington Roberto", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74043", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Marcio Bittar", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74363", 
+        "estado": "AC"
+    }, 
+    {
+        "nome": "Givaldo Carimb\u00e3o", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": true, 
+        "key": "74558", 
+        "estado": "AL"
+    }, 
+    {
+        "nome": "Evandro Milhomen", 
+        "partido": "PCdoB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74345", 
+        "estado": "AP"
+    }, 
+    {
+        "nome": "Silas C\u00e2mara", 
+        "partido": "PSC", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74356", 
+        "estado": "AM"
+    }, 
+    {
+        "nome": "Paulo Magalh\u00e3es", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74574", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Nelson Pellegrino", 
+        "partido": "PT", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "74571", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Geraldo Sim\u00f5es", 
+        "partido": "PT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74566", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Manoel Salviano", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74456", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Magela", 
+        "partido": "PT", 
+        "legislaturas": 12, 
+        "lider": false, 
+        "key": "74802", 
+        "estado": "DF"
+    }, 
+    {
+        "nome": "Pedro Chaves", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74812", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Nice Lob\u00e3o", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74447", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Pedro Fernandes", 
+        "partido": "PTB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74449", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Lincoln Portela", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74585", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Gilmar Machado", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74581", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Dami\u00e3o Feliciano", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74467", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Alex Canziani", 
+        "partido": "PTB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73458", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Osmar Serraglio", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73463", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Dr. Rosinha", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73459", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Carlos Eduardo Cadoca", 
+        "partido": "PSC", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74474", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Pedro Eug\u00eanio", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74556", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Marcelo Castro", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74460", 
+        "estado": "PI"
+    }, 
+    {
+        "nome": "Jorge Bittar", 
+        "partido": "PT", 
+        "legislaturas": 10, 
+        "lider": false, 
+        "key": "74686", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Rodrigo Maia", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74693", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Luiz S\u00e9rgio", 
+        "partido": "PT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74688", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Beto Albuquerque", 
+        "partido": "PSB", 
+        "legislaturas": 6, 
+        "lider": true, 
+        "key": "73478", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Henrique Fontana", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73482", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Luis Carlos Heinze", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73483", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Fernando Marroni", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73481", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Nilton Capixaba", 
+        "partido": "PTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74359", 
+        "estado": "RO"
+    }, 
+    {
+        "nome": "Luiza Erundina", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74784", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Alberto Mour\u00e3o", 
+        "partido": "PSDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "74696", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Milton Monti", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74787", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Julio Semeghini", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74783", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Ricardo Berzoini", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74793", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Iara Bernardi", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74780", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Zenaldo Coutinho", 
+        "partido": "PSDB", 
+        "legislaturas": 10, 
+        "lider": false, 
+        "key": "74354", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Nilson Pinto", 
+        "partido": "PSDB", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "74352", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Josu\u00e9 Bengtson", 
+        "partido": "PTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74351", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Jorge Pinheiro", 
+        "partido": "PRB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "73569", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "J\u00falio Delgado", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73586", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Nilmar Ruiz", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73594", 
+        "estado": "TO"
+    }, 
+    {
+        "nome": "Jo\u00e3o Dado", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73682", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Osmar Terra", 
+        "partido": "PMDB", 
+        "legislaturas": 14, 
+        "lider": false, 
+        "key": "73692", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Andr\u00e9 Zacharow", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74377", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Assis Do Couto", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74378", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Takayama", 
+        "partido": "PSC", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74385", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Cezar Silvestri", 
+        "partido": "PPS", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74379", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Giacobo", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74383", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Eduardo Sciarra", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": true, 
+        "key": "74382", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Julio Lopes", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74253", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Eduardo Cunha", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": true, 
+        "key": "74173", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Chico Alencar", 
+        "partido": "PSOL", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74171", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Leonardo Picciani", 
+        "partido": "PMDB", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "74254", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Deley", 
+        "partido": "PSC", 
+        "legislaturas": 10, 
+        "lider": false, 
+        "key": "74172", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "F\u00e1tima Bezerra", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74037", 
+        "estado": "RN"
+    }, 
+    {
+        "nome": "Sandra Rosado", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74039", 
+        "estado": "RN"
+    }, 
+    {
+        "nome": "Anselmo De Jesus", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73937", 
+        "estado": "RO"
+    }, 
+    {
+        "nome": "Jos\u00e9 Ot\u00e1vio Germano", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74395", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Paulo Pimenta", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74400", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Maria Do Ros\u00e1rio", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74398", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Onyx Lorenzoni", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74399", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Zonta", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74392", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Jorge Boeira", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74388", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Heleno Silva", 
+        "partido": "PRB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74053", 
+        "estado": "SE"
+    }, 
+    {
+        "nome": "Mendon\u00e7a Prado", 
+        "partido": "DEM", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74056", 
+        "estado": "SE"
+    }, 
+    {
+        "nome": "Jos\u00e9 Mentor", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74275", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Devanir Ribeiro", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74264", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Vicentinho", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74283", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Dimas Ramalho", 
+        "partido": "PPS", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74265", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Jefferson Campos", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74273", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Carlos Sampaio", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": true, 
+        "key": "74262", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Walter Feldman", 
+        "partido": "PSDB", 
+        "legislaturas": 18, 
+        "lider": false, 
+        "key": "74284", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Eduardo Gomes", 
+        "partido": "PSDB", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "73945", 
+        "estado": "TO"
+    }, 
+    {
+        "nome": "Odair Cunha", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74159", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Reginaldo Lopes", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74161", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Leonardo Monteiro", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74156", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Geraldo Thadeu", 
+        "partido": "PPS", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74151", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Biffi", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74373", 
+        "estado": "MS"
+    }, 
+    {
+        "nome": "Vander Loubet", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74376", 
+        "estado": "MS"
+    }, 
+    {
+        "nome": "Geraldo Resende", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74374", 
+        "estado": "MS"
+    }, 
+    {
+        "nome": "Zequinha Marinho", 
+        "partido": "PSC", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73933", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Z\u00e9 Geraldo", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73931", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Wladimir Costa", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73930", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Luiz Couto", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74041", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Benjamin Maranh\u00e3o", 
+        "partido": "PMDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "74040", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Maur\u00edcio Rands", 
+        "partido": "PT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74045", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Paulo Rubem Santiago", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74047", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Henrique Afonso", 
+        "partido": "PV", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73940", 
+        "estado": "AC"
+    }, 
+    {
+        "nome": "Perp\u00e9tua Almeida", 
+        "partido": "PCdoB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73943", 
+        "estado": "AC"
+    }, 
+    {
+        "nome": "Jo\u00e3o Lyra", 
+        "partido": "PTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74049", 
+        "estado": "AL"
+    }, 
+    {
+        "nome": "Maur\u00edcio Quintella Lessa", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74050", 
+        "estado": "AL"
+    }, 
+    {
+        "nome": "Carlos Souza", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73934", 
+        "estado": "AM"
+    }, 
+    {
+        "nome": "Davi Alcolumbre", 
+        "partido": "DEM", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "73924", 
+        "estado": "AP"
+    }, 
+    {
+        "nome": "Janete Capiberibe", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "73926", 
+        "estado": "AP"
+    }, 
+    {
+        "nome": "Josias Gomes", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74141", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Zez\u00e9u Ribeiro", 
+        "partido": "PT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74145", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Jos\u00e9 Carlos Ara\u00fajo", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74140", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Antonio Carlos Magalh\u00e3es Neto", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74058", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Marcelo Guimar\u00e3es Filho", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74143", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "F\u00e1bio Souto", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74062", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Alice Portugal", 
+        "partido": "PCdoB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74057", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Daniel Almeida", 
+        "partido": "PCdoB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74060", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Manato", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74163", 
+        "estado": "ES"
+    }, 
+    {
+        "nome": "Iriny Lopes", 
+        "partido": "PT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74162", 
+        "estado": "ES"
+    }, 
+    {
+        "nome": "Sandes J\u00fanior", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74372", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Leonardo Vilela", 
+        "partido": "PSDB", 
+        "legislaturas": 10, 
+        "lider": false, 
+        "key": "74368", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Rubens Otoni", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74371", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Leandro Vilela", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74367", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Carlos Alberto Ler\u00e9ia", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74290", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Jo\u00e3o Campos", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74366", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Ribamar Alves", 
+        "partido": "PSB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74027", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "M\u00e1rio Heringer", 
+        "partido": "PDT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "74158", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Nazareno Fonteles", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "74491", 
+        "estado": "PI"
+    }, 
+    {
+        "nome": "Gorete Pereira", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "129618", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Natan Donadon", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "133372", 
+        "estado": "RO"
+    }, 
+    {
+        "nome": "Marco Maia", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "133373", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Ademir Camilo", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "133374", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Andr\u00e9 Figueiredo", 
+        "partido": "PDT", 
+        "legislaturas": 1, 
+        "lider": true, 
+        "key": "133439", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Afonso Hamm", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "136811", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Francisco Esc\u00f3rcio", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "137983", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Beto Faro", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141335", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Abelardo Camarinha", 
+        "partido": "PSB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141463", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Aelton Freitas", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141372", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Alexandre Silveira", 
+        "partido": "PPS", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141374", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Alfredo Kaefer", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141454", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Aline Corr\u00eaa", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141375", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Ana Arraes", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141377", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Andre Vargas", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141378", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Andreia Zito", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141379", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Angelo Vanhoni", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141381", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Ant\u00f4nio Andrade", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141387", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Antonio Bulh\u00f5es", 
+        "partido": "PRB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141383", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Ant\u00f4nio Roberto", 
+        "partido": "PV", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141390", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Arnaldo Jardim", 
+        "partido": "PPS", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141391", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Bilac Pinto", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141513", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Brizola Neto", 
+        "partido": "PDT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141399", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Bruno Ara\u00fajo", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141394", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Luiz Carlos Busato", 
+        "partido": "PTB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141485", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Camilo Cola", 
+        "partido": "PMDB", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "141395", 
+        "estado": "ES"
+    }, 
+    {
+        "nome": "Carlos Brand\u00e3o", 
+        "partido": "PSDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141402", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Celso Maldaner", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141405", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Chico D'Angelo", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141439", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Chico Lopes", 
+        "partido": "PCdoB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141440", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Cleber Verde", 
+        "partido": "PRB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141408", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Dalva Figueiredo", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141502", 
+        "estado": "AP"
+    }, 
+    {
+        "nome": "Davi Alves Silva J\u00fanior", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141412", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "D\u00e9cio Lima", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141413", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Dr. Adilson Soares", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141371", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Dr. Ubiali", 
+        "partido": "PSB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141498", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Duarte Nogueira", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141385", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Edio Lopes", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141417", 
+        "estado": "RR"
+    }, 
+    {
+        "nome": "Edson Aparecido", 
+        "partido": "PSDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141418", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Edson Santos", 
+        "partido": "PT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141419", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Eduardo Da Fonte", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": true, 
+        "key": "141421", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Efraim Filho", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141422", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Eliene Lima", 
+        "partido": "PP", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141423", 
+        "estado": "MT"
+    }, 
+    {
+        "nome": "Eudes Xavier", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141386", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "F\u00e1bio Faria", 
+        "partido": "PMN", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141428", 
+        "estado": "RN"
+    }, 
+    {
+        "nome": "F\u00e1bio Ramalho", 
+        "partido": "PV", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141427", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Felipe Bornier", 
+        "partido": "PHS", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141430", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Felipe Maia", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141429", 
+        "estado": "RN"
+    }, 
+    {
+        "nome": "Fernando Coelho Filho", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141431", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Filipe Pereira", 
+        "partido": "PSC", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141433", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Flaviano Melo", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141434", 
+        "estado": "AC"
+    }, 
+    {
+        "nome": "Francisco Ten\u00f3rio", 
+        "partido": "PMN", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141467", 
+        "estado": "AL"
+    }, 
+    {
+        "nome": "George Hilton", 
+        "partido": "PRB", 
+        "legislaturas": 4, 
+        "lider": true, 
+        "key": "141441", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Gladson Cameli", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141446", 
+        "estado": "AC"
+    }, 
+    {
+        "nome": "Guilherme Campos", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141447", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Homero Pereira", 
+        "partido": "PR", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141448", 
+        "estado": "MT"
+    }, 
+    {
+        "nome": "Hugo Leal", 
+        "partido": "PSC", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141450", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "\u00cdris De Ara\u00fajo", 
+        "partido": "PMDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141453", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Janete Rocha Piet\u00e1", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141455", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Jilmar Tatto", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141456", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "J\u00f4 Moraes", 
+        "partido": "PCdoB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141503", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Jo\u00e3o Carlos Bacelar", 
+        "partido": "PR", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141458", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Jo\u00e3o Bittar", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141457", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Jo\u00e3o Maia", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141459", 
+        "estado": "RN"
+    }, 
+    {
+        "nome": "Joaquim Beltr\u00e3o", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141461", 
+        "estado": "AL"
+    }, 
+    {
+        "nome": "Jos\u00e9 Airton", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141464", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Jos\u00e9 Guimar\u00e3es", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": true, 
+        "key": "141470", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Laurez Moreira", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141479", 
+        "estado": "TO"
+    }, 
+    {
+        "nome": "L\u00e1zaro Botelho", 
+        "partido": "PP", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141480", 
+        "estado": "TO"
+    }, 
+    {
+        "nome": "Lelo Coimbra", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141562", 
+        "estado": "ES"
+    }, 
+    {
+        "nome": "Leonardo Quint\u00e3o", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141482", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Lindomar Gar\u00e7on", 
+        "partido": "PV", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141483", 
+        "estado": "RO"
+    }, 
+    {
+        "nome": "Lira Maia", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141462", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "L\u00facio Vale", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141484", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Luiz Carlos Setim", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141486", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Luiz Fernando Faria", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141487", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Manoel Junior", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141490", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Manuela D'\u00c1vila", 
+        "partido": "PCdoB", 
+        "legislaturas": 6, 
+        "lider": true, 
+        "key": "141492", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "M\u00e1rcio Fran\u00e7a", 
+        "partido": "PSB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141497", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Marcio Junqueira", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141496", 
+        "estado": "RR"
+    }, 
+    {
+        "nome": "Marcos Montes", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141500", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Maur\u00edcio Trindade", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141506", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Mauro Mariani", 
+        "partido": "PMDB", 
+        "legislaturas": 10, 
+        "lider": false, 
+        "key": "141507", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Mauro Nazif", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141508", 
+        "estado": "RO"
+    }, 
+    {
+        "nome": "Miguel Corr\u00eaa", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141509", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Moreira Mendes", 
+        "partido": "PPS", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141537", 
+        "estado": "RO"
+    }, 
+    {
+        "nome": "Neilton Mulim", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141510", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Osmar J\u00fanior", 
+        "partido": "PCdoB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141514", 
+        "estado": "PI"
+    }, 
+    {
+        "nome": "Otavio Leite", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141515", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Paulo Pereira Da Silva", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141518", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Paulo Abi-Ackel", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141516", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Paulo Henrique Lustosa", 
+        "partido": "PMDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141517", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Paulo Piau", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141519", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Paulo Teixeira", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141488", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Pepe Vargas", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141445", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Pinto Itamaraty", 
+        "partido": "PSDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141465", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Francisco Praciano", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141438", 
+        "estado": "AM"
+    }, 
+    {
+        "nome": "Professor Setimo", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141543", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Ratinho Junior", 
+        "partido": "PSC", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141403", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Raul Henry", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141523", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Rebecca Garcia", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141525", 
+        "estado": "AM"
+    }, 
+    {
+        "nome": "Renato Molling", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141527", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Ricardo Tripoli", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141472", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Roberto Britto", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141529", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Roberto Santiago", 
+        "partido": "PV", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141473", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Rodrigo De Castro", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141531", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Rog\u00e9rio Marinho", 
+        "partido": "PSDB", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "141535", 
+        "estado": "RN"
+    }, 
+    {
+        "nome": "Sabino Castelo Branco", 
+        "partido": "PTB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141522", 
+        "estado": "AM"
+    }, 
+    {
+        "nome": "Sebasti\u00e3o Bala Rocha", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141539", 
+        "estado": "AP"
+    }, 
+    {
+        "nome": "S\u00e9rgio Moraes", 
+        "partido": "PTB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141542", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Solange Almeida", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141547", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Sueli Vidigal", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141548", 
+        "estado": "ES"
+    }, 
+    {
+        "nome": "Urzeni Rocha", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141551", 
+        "estado": "RR"
+    }, 
+    {
+        "nome": "C\u00e2ndido Vaccarezza", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141396", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Valadares Filho", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141384", 
+        "estado": "SE"
+    }, 
+    {
+        "nome": "Valtenir Pereira", 
+        "partido": "PSB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141552", 
+        "estado": "MT"
+    }, 
+    {
+        "nome": "Vanderlei Macris", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141553", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Vieira Da Cunha", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141400", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Vitor Penido", 
+        "partido": "DEM", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141557", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Waldir Maranh\u00e3o", 
+        "partido": "PP", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "141558", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Walter Ihoshi", 
+        "partido": "DEM", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "141560", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Wandenkolk Gon\u00e7alves", 
+        "partido": "PSDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141561", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Carlos Zarattini", 
+        "partido": "PT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141398", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Vilson Covatti", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "141870", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Jairo Ata\u00edde", 
+        "partido": "DEM", 
+        "legislaturas": 10, 
+        "lider": false, 
+        "key": "3151", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Joseph Bandeira", 
+        "partido": "PT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "4929", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Silvio Costa", 
+        "partido": "PTB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "4930", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Izalci", 
+        "partido": "PR", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "4931", 
+        "estado": "DF"
+    }, 
+    {
+        "nome": "Neri Geller", 
+        "partido": "PP", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "146307", 
+        "estado": "MT"
+    }, 
+    {
+        "nome": "Marcelo Almeida", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "146613", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Dr. Paulo C\u00e9sar", 
+        "partido": "PR", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "147975", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Professor Vict\u00f3rio Galli", 
+        "partido": "PMDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "148134", 
+        "estado": "MT"
+    }, 
+    {
+        "nome": "Major F\u00e1bio", 
+        "partido": "DEM", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "149327", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "M\u00e1rcio Marinho", 
+        "partido": "PRB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "150418", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Ricardo Quirino", 
+        "partido": "PRB", 
+        "legislaturas": 12, 
+        "lider": false, 
+        "key": "150634", 
+        "estado": "DF"
+    }, 
+    {
+        "nome": "Laercio Oliveira", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "151208", 
+        "estado": "SE"
+    }, 
+    {
+        "nome": "Glauber Braga", 
+        "partido": "PSB", 
+        "legislaturas": 8, 
+        "lider": false, 
+        "key": "152605", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Z\u00e9 Vieira", 
+        "partido": "PR", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "152607", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Rodrigo Bethlem", 
+        "partido": "PMDB", 
+        "legislaturas": 14, 
+        "lider": false, 
+        "key": "152865", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Eleuses Paiva", 
+        "partido": "DEM", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "154919", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Emiliano Jos\u00e9", 
+        "partido": "PT", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "154997", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Vicente Selistre", 
+        "partido": "PSB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "159258", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Jos\u00e9 Humberto", 
+        "partido": "PHS", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "160396", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Taumaturgo Lima", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160679", 
+        "estado": "AC"
+    }, 
+    {
+        "nome": "Sib\u00e1 Machado", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160613", 
+        "estado": "AC"
+    }, 
+    {
+        "nome": "Ant\u00f4nia L\u00facia", 
+        "partido": "PSC", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "123756", 
+        "estado": "AC"
+    }, 
+    {
+        "nome": "Arthur Lira", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160541", 
+        "estado": "AL"
+    }, 
+    {
+        "nome": "Celia Rocha", 
+        "partido": "PTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160624", 
+        "estado": "AL"
+    }, 
+    {
+        "nome": "Renan Filho", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160623", 
+        "estado": "AL"
+    }, 
+    {
+        "nome": "Rui Palmeira", 
+        "partido": "PSDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "76420", 
+        "estado": "AL"
+    }, 
+    {
+        "nome": "Rosinha Da Adefal", 
+        "partido": "PTdoB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "146949", 
+        "estado": "AL"
+    }, 
+    {
+        "nome": "Henrique Oliveira", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "68731", 
+        "estado": "AM"
+    }, 
+    {
+        "nome": "Professora Marcivania", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160641", 
+        "estado": "AP"
+    }, 
+    {
+        "nome": "Vinicius Gurgel", 
+        "partido": "PRTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160591", 
+        "estado": "AP"
+    }, 
+    {
+        "nome": "Luiz Carlos", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160645", 
+        "estado": "AP"
+    }, 
+    {
+        "nome": "Luiz Arg\u00f4lo", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160547", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Oziel Oliveira", 
+        "partido": "PDT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160650", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "F\u00e9lix Mendon\u00e7a J\u00fanior", 
+        "partido": "PDT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160666", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Afonso Florence", 
+        "partido": "PT", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160508", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Valmir Assun\u00e7\u00e3o", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160610", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Amauri Teixeira", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160603", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Waldenor Pereira", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160569", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Rui Costa", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "104254", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Antonio Brito", 
+        "partido": "PTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160553", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Arthur Oliveira Maia", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160600", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Lucio Vieira Lima", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "94931", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Erivelton Santana", 
+        "partido": "PSC", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "99654", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Fernando Torres", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160676", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Jos\u00e9 Nunes", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160619", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "J\u00e2nio Natal", 
+        "partido": "PRP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160675", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Antonio Imbassahy", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160530", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Edson Pimenta", 
+        "partido": "PCdoB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160618", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Artur Bruno", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160678", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Danilo Forte", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "62881", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Raimund\u00e3o", 
+        "partido": "PMDB", 
+        "legislaturas": 3, 
+        "lider": false, 
+        "key": "160516", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Genecias Noronha", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160669", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Domingos Neto", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "143632", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Jo\u00e3o Ananias", 
+        "partido": "PCdoB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160574", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Reguffe", 
+        "partido": "PDT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "89282", 
+        "estado": "DF"
+    }, 
+    {
+        "nome": "Paulo Tadeu", 
+        "partido": "PT", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160658", 
+        "estado": "DF"
+    }, 
+    {
+        "nome": "Erika Kokay", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160575", 
+        "estado": "DF"
+    }, 
+    {
+        "nome": "Luiz Pitiman", 
+        "partido": "PMDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160550", 
+        "estado": "DF"
+    }, 
+    {
+        "nome": "Ronaldo Fonseca", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160637", 
+        "estado": "DF"
+    }, 
+    {
+        "nome": "Jaqueline Roriz", 
+        "partido": "PMN", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "97822", 
+        "estado": "DF"
+    }, 
+    {
+        "nome": "Dr. Jorge Silva", 
+        "partido": "PDT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160643", 
+        "estado": "ES"
+    }, 
+    {
+        "nome": "Lauriete", 
+        "partido": "PSC", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160534", 
+        "estado": "ES"
+    }, 
+    {
+        "nome": "Audifax", 
+        "partido": "PSB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160680", 
+        "estado": "ES"
+    }, 
+    {
+        "nome": "Paulo Foletto", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160517", 
+        "estado": "ES"
+    }, 
+    {
+        "nome": "Cesar Colnago", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160664", 
+        "estado": "ES"
+    }, 
+    {
+        "nome": "Fl\u00e1via Morais", 
+        "partido": "PDT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160598", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Thiago Peixoto", 
+        "partido": "PMDB", 
+        "legislaturas": 5, 
+        "lider": false, 
+        "key": "160617", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Heuler Cruvinel", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160596", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Armando Verg\u00edlio", 
+        "partido": "PMN", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160546", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Luciano Moreira", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160513", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Alberto Filho", 
+        "partido": "PMDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160582", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Edivaldo Holanda Junior", 
+        "partido": "PTC", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160616", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "H\u00e9lio Santos", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160590", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Lourival Mendes", 
+        "partido": "PTdoB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160555", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Dimas Fabiano", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160599", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Renzo Braz", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160654", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Toninho Pinheiro", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160611", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Z\u00e9 Silva", 
+        "partido": "PDT", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160632", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Gabriel Guimar\u00e3es", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "129037", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Padre Jo\u00e3o", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160556", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Weliton Prado", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160518", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Eros Biondini", 
+        "partido": "PTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160640", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Dr. Grilo", 
+        "partido": "PSL", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160514", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Diego Andrade", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160588", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Bernardo Santana De Vasconcellos", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "109152", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Walter Tosta", 
+        "partido": "PMN", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160609", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Carlaile Pedrosa", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160585", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Marcus Pestana", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "159238", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Domingos S\u00e1vio", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160758", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Eduardo Azeredo", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160647", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Luis Tib\u00e9", 
+        "partido": "PTdoB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160510", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Fabio Trad", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160587", 
+        "estado": "MS"
+    }, 
+    {
+        "nome": "Giroto", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160562", 
+        "estado": "MS"
+    }, 
+    {
+        "nome": "Mandetta", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160633", 
+        "estado": "MS"
+    }, 
+    {
+        "nome": "Reinaldo Azambuja", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160615", 
+        "estado": "MS"
+    }, 
+    {
+        "nome": "S\u00e1guas Moraes", 
+        "partido": "PT", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160630", 
+        "estado": "MT"
+    }, 
+    {
+        "nome": "Cl\u00e1udio Puty", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160557", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Miriquinho Batista", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160644", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Arnaldo Jordy", 
+        "partido": "PPS", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160602", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Aguinaldo Ribeiro", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160527", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Nilda Gondim", 
+        "partido": "PMDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160564", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Wilson Filho", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160636", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Hugo Motta", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160674", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Romero Rodrigues", 
+        "partido": "PSDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160629", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Ruy Carneiro", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160635", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Roberto Teixeira", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160652", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Jo\u00e3o Paulo Lima", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160549", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Jorge Corte Real", 
+        "partido": "PTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160572", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Jos\u00e9 Augusto Maia", 
+        "partido": "PTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160661", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Anderson Ferreira", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160551", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Augusto Coutinho", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160665", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Danilo Cabral", 
+        "partido": "PSB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160528", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Pastor Eurico", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160642", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Luciana Santos", 
+        "partido": "PCdoB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160628", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Iracema Portella", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "67138", 
+        "estado": "PI"
+    }, 
+    {
+        "nome": "Assis Carvalho", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "159237", 
+        "estado": "PI"
+    }, 
+    {
+        "nome": "Jesus Rodrigues", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160671", 
+        "estado": "PI"
+    }, 
+    {
+        "nome": "Marllos Sampaio", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "121759", 
+        "estado": "PI"
+    }, 
+    {
+        "nome": "Cida Borghetti", 
+        "partido": "PP", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160580", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Zeca Dirceu", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160592", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Jo\u00e3o Arruda", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160573", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Edmar Arruda", 
+        "partido": "PSC", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160578", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Nelson Padovani", 
+        "partido": "PSC", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160566", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Sandro Alex", 
+        "partido": "PPS", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160621", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Leopoldo Meyer", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160663", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Rosane Ferreira", 
+        "partido": "PV", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160614", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Fernando Francischini", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": true, 
+        "key": "160646", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Vitor Paulo", 
+        "partido": "PRB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "92355", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Marcelo Matos", 
+        "partido": "PDT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "76287", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Sergio Zveiter", 
+        "partido": "PDT", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "160612", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Alessandro Molon", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160511", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Walney Rocha", 
+        "partido": "PTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160631", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Pedro Paulo", 
+        "partido": "PMDB", 
+        "legislaturas": 7, 
+        "lider": false, 
+        "key": "122158", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Washington Reis", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160620", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Adrian", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160577", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Liliam S\u00e1", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160533", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Anthony Garotinho", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": true, 
+        "key": "160539", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Zoinho", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160625", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Francisco Floriano", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160677", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Stepan Nercessian", 
+        "partido": "PPS", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160627", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Aureo", 
+        "partido": "PRTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160512", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Rom\u00e1rio", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160597", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Alfredo Sirkis", 
+        "partido": "PV", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "116663", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Dr. Aluizio", 
+        "partido": "PV", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160529", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Jean Wyllys", 
+        "partido": "PSOL", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160672", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Cristiano", 
+        "partido": "PTdoB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "114586", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Paulo Wagner", 
+        "partido": "PV", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160593", 
+        "estado": "RN"
+    }, 
+    {
+        "nome": "Carlos Magno", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160605", 
+        "estado": "RO"
+    }, 
+    {
+        "nome": "Padre Ton", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160670", 
+        "estado": "RO"
+    }, 
+    {
+        "nome": "Jhonatan De Jesus", 
+        "partido": "PRB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160531", 
+        "estado": "RR"
+    }, 
+    {
+        "nome": "Raul Lima", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160656", 
+        "estado": "RR"
+    }, 
+    {
+        "nome": "Paulo Cesar Quartiero", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160668", 
+        "estado": "RR"
+    }, 
+    {
+        "nome": "Chico Das Verduras", 
+        "partido": "PRP", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160634", 
+        "estado": "RR"
+    }, 
+    {
+        "nome": "Berinho Bantim", 
+        "partido": "PSDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160554", 
+        "estado": "RR"
+    }, 
+    {
+        "nome": "Jer\u00f4nimo Goergen", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160570", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Giovani Cherini", 
+        "partido": "PDT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160673", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Ronaldo Zulke", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160594", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Bohn Gass", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160538", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Marcon", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160535", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Danrlei De Deus Hinterholz", 
+        "partido": "PTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160552", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Alceu Moreira", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160559", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Alexandre Roso", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160579", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Jose St\u00e9dile", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160607", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Nelson Marchezan Junior", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160567", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Assis Melo", 
+        "partido": "PCdoB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160581", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Pedro Uczai", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160604", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Ronaldo Benedet", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160515", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Rog\u00e9rio Peninha Mendon\u00e7a", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160651", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Jo\u00e3o Rodrigues", 
+        "partido": "DEM", 
+        "legislaturas": 3, 
+        "lider": false, 
+        "key": "160571", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Onofre Santo Agostini", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160563", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Jorginho Mello", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160509", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Marco Tebaldi", 
+        "partido": "PSDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "160536", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Rog\u00e9rio Carvalho", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160568", 
+        "estado": "SE"
+    }, 
+    {
+        "nome": "M\u00e1rcio Mac\u00eado", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160542", 
+        "estado": "SE"
+    }, 
+    {
+        "nome": "Almeida Lima", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160626", 
+        "estado": "SE"
+    }, 
+    {
+        "nome": "Andre Moura", 
+        "partido": "PSC", 
+        "legislaturas": 1, 
+        "lider": true, 
+        "key": "160543", 
+        "estado": "SE"
+    }, 
+    {
+        "nome": "Otoniel Lima", 
+        "partido": "PRB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160540", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Mission\u00e1rio Jos\u00e9 Olimpio", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160561", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Vicente Candido", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160622", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Carlinhos Almeida", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160584", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Newton Lima", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160657", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Jos\u00e9 De Filippi", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160560", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Pastor Marco Feliciano", 
+        "partido": "PSC", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160601", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Marcelo Aguiar", 
+        "partido": "PSC", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160660", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Tiririca", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160976", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Paulo Freire", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160558", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Alexandre Leite", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160545", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Rodrigo Garcia", 
+        "partido": "DEM", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "88950", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Junji Abe", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160544", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Eli Correa Filho", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160532", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Jonas Donizette", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160548", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Gabriel Chalita", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160537", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Keiko Ota", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160659", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Guilherme Mussi", 
+        "partido": "PV", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160667", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Penna", 
+        "partido": "PV", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "80920", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Roberto De Lucena", 
+        "partido": "PV", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160653", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Ricardo Izar", 
+        "partido": "PV", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160655", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Mara Gabrilli", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160565", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "William Dib", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160586", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Luiz Fernando Machado", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160662", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Vaz De Lima", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160595", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Bruna Furlan", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160589", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Delegado Prot\u00f3genes", 
+        "partido": "PCdoB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160606", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "\u00c2ngelo Agnolin", 
+        "partido": "PDT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160638", 
+        "estado": "TO"
+    }, 
+    {
+        "nome": "J\u00fanior Coimbra", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160648", 
+        "estado": "TO"
+    }, 
+    {
+        "nome": "C\u00e9sar Halum", 
+        "partido": "PPS", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160576", 
+        "estado": "TO"
+    }, 
+    {
+        "nome": "Iraj\u00e1 Abreu", 
+        "partido": "DEM", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "81232", 
+        "estado": "TO"
+    }, 
+    {
+        "nome": "Professora Dorinha Seabra Rezende", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "160639", 
+        "estado": "TO"
+    }, 
+    {
+        "nome": "Andr\u00e9 Dias", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "161905", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Dudimar Paxiuba", 
+        "partido": "PSDB", 
+        "legislaturas": 3, 
+        "lider": false, 
+        "key": "161904", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Roberto Dorner", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "161903", 
+        "estado": "MT"
+    }, 
+    {
+        "nome": "Acelino Pop\u00f3", 
+        "partido": "PRB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "161907", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Luiz Otavio", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "161906", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Dr. Carlos Alberto", 
+        "partido": "PMN", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "118384", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Luiz No\u00e9", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "161962", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Eliane Rolim", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "162175", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Policarpo", 
+        "partido": "PT", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "162174", 
+        "estado": "DF"
+    }, 
+    {
+        "nome": "Luiz Nishimori", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "162332", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Maur\u00edcio Dziedricki", 
+        "partido": "PTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "75431", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Valdivino De Oliveira", 
+        "partido": "PSDB", 
+        "legislaturas": 6, 
+        "lider": false, 
+        "key": "162490", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Vilalba", 
+        "partido": "PRB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "163322", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Ronaldo Nogueira", 
+        "partido": "PTB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "163321", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Fernando Jord\u00e3o", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "163831", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Stefano Aguiar", 
+        "partido": "PSC", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "92776", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Delegado Waldir", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "164359", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Carmen Zanotto", 
+        "partido": "PPS", 
+        "legislaturas": 3, 
+        "lider": false, 
+        "key": "164360", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Marina Santanna", 
+        "partido": "PT", 
+        "legislaturas": 5, 
+        "lider": false, 
+        "key": "164361", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Gean Loureiro", 
+        "partido": "PMDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "165429", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Carlos Roberto", 
+        "partido": "PSDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "165583", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Francisco Ara\u00fajo", 
+        "partido": "PSL", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "165675", 
+        "estado": "RR"
+    }, 
+    {
+        "nome": "Nilson Leit\u00e3o", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": true, 
+        "key": "166401", 
+        "estado": "MT"
+    }, 
+    {
+        "nome": "Magda Mofatto", 
+        "partido": "PTB", 
+        "legislaturas": 3, 
+        "lider": false, 
+        "key": "166402", 
+        "estado": "GO"
+    }, 
+    {
+        "nome": "Dra. Elaine Abissamra", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "166727", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Weverton Rocha", 
+        "partido": "PDT", 
+        "legislaturas": 3, 
+        "lider": false, 
+        "key": "167493", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Severino Ninho", 
+        "partido": "PSB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "167614", 
+        "estado": "PE"
+    }, 
+    {
+        "nome": "Vanderlei Siraque", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "167617", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Romanna Remor", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "167707", 
+        "estado": "SC"
+    }, 
+    {
+        "nome": "Marcos Rog\u00e9rio", 
+        "partido": "PDT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "167722", 
+        "estado": "RO"
+    }, 
+    {
+        "nome": "Cabo Juliano Rabelo", 
+        "partido": "PDT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "168034", 
+        "estado": "MT"
+    }, 
+    {
+        "nome": "Simpl\u00edcio Ara\u00fajo", 
+        "partido": "PPS", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "168175", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Leonardo Gadelha", 
+        "partido": "PSC", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "122195", 
+        "estado": "PB"
+    }, 
+    {
+        "nome": "Ze Carlos Da Pesca", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "168253", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "M\u00e1rio Feitoza", 
+        "partido": "PMDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "168447", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Paulo Ferreira", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "109372", 
+        "estado": "RS"
+    }, 
+    {
+        "nome": "Gera Arruda", 
+        "partido": "PMDB", 
+        "legislaturas": 4, 
+        "lider": false, 
+        "key": "145895", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Ricardo Archer", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "169553", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Paulo Marinho Junior", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "128760", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Telma Pinheiro", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "169711", 
+        "estado": "MA"
+    }, 
+    {
+        "nome": "Alexandre Toledo", 
+        "partido": "PSDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "169712", 
+        "estado": "AL"
+    }, 
+    {
+        "nome": "Jo\u00e3o Caldas", 
+        "partido": "PSDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74559", 
+        "estado": "AL"
+    }, 
+    {
+        "nome": "Valry Morais", 
+        "partido": "PRP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "169868", 
+        "estado": "PA"
+    }, 
+    {
+        "nome": "Dr. Dilson Drumond", 
+        "partido": "PDT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "170489", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Professor S\u00e9rgio De Oliveira", 
+        "partido": "PSC", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "170673", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Isaias Silvestre", 
+        "partido": "PSB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74152", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Dr. Luiz Fernando", 
+        "partido": "PMN", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74094", 
+        "estado": "AM"
+    }, 
+    {
+        "nome": "Paul\u00e3o", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "171617", 
+        "estado": "AL"
+    }, 
+    {
+        "nome": "Luiz De Deus", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "171618", 
+        "estado": "BA"
+    }, 
+    {
+        "nome": "Margarida Salom\u00e3o", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "171619", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Nilm\u00e1rio Miranda", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "74751", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Renato Andrade", 
+        "partido": "PP", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "171620", 
+        "estado": "MG"
+    }, 
+    {
+        "nome": "Eurico J\u00fanior", 
+        "partido": "PV", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "171621", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Manuel Rosa Neca", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "171622", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Fabio Reis", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "171623", 
+        "estado": "SE"
+    }, 
+    {
+        "nome": "Oliveira Filho", 
+        "partido": "PRB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "73464", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Eron Bezerra", 
+        "partido": "PCdoB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "171782", 
+        "estado": "AM"
+    }, 
+    {
+        "nome": "Francisco Chagas", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "172029", 
+        "estado": "SP"
+    }, 
+    {
+        "nome": "Leomar Quintanilha", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "73716", 
+        "estado": "TO"
+    }, 
+    {
+        "nome": "Celso Jacob", 
+        "partido": "PMDB", 
+        "legislaturas": 2, 
+        "lider": false, 
+        "key": "73568", 
+        "estado": "RJ"
+    }, 
+    {
+        "nome": "Pl\u00ednio Val\u00e9rio", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "172711", 
+        "estado": "AM"
+    }, 
+    {
+        "nome": "Ricardo Arruda", 
+        "partido": "PSC", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "172945", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Il\u00e1rio Marques", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "173262", 
+        "estado": "CE"
+    }, 
+    {
+        "nome": "Akira Otsubo", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "173269", 
+        "estado": "MS"
+    }, 
+    {
+        "nome": "Goiaciara Cruz", 
+        "partido": "PR", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "173802", 
+        "estado": "TO"
+    }, 
+    {
+        "nome": "Pedro Guerra", 
+        "partido": "DEM", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "174314", 
+        "estado": "PR"
+    }, 
+    {
+        "nome": "Amir Lando", 
+        "partido": "PMDB", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "174861", 
+        "estado": "RO"
+    }, 
+    {
+        "nome": "Renato Sim\u00f5es", 
+        "partido": "PT", 
+        "legislaturas": 1, 
+        "lider": false, 
+        "key": "175212", 
+        "estado": "SP"
     }
 ]
