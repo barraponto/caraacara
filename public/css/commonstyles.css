@@ -49,7 +49,31 @@
 }
 
 .lider {
-  border-color: blue;
+  position: relative;
+}
+.lider::after {
+  position: absolute;
+  top: 0;
+  left: 55px;
+  width: 35px;
+  height: 30px;
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  transform: rotate(30deg);
+  background: url('../img/crown.svg');
+  background-size: cover;
+  content: ' ';
+}
+.mandates {
+  position: absolute;
+  bottom: 3em;
+  right: 0;
+}
+.mandate {
+  width: 10px;
+  height: 10px;
+  background: url('../img/star.svg');
+  background-size: cover;
 }
 
 #goal .hero-unit {
