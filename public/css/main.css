@@ -2,4 +2,6 @@
    Author's custom styles
    ========================================================================== */
 
-
+.newgame--input-group {
+  max-width: 24em;
+}
